@@ -1,0 +1,9 @@
+*.hex
+*.eep.hex
+*.obj
+*.cof
+*.map
+__pycache__/
+*.pyc
+.vscode/
+.idea/
